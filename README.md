@@ -28,13 +28,19 @@
 
 
 
-<h3 align="left">📊 GitHub Stats:</h3>
+My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+</h2>
 
-![](https://github-readme-stats.vercel.app/api?username=anujkumar1204&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=anujkumar1204&theme=dark&hide_border=false)
-
+<table>
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=AnujKumar1204&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight"/>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=AnujKumar1204&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
+</td>
+</tr>
+</table>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anujkumar1204&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AnujKumar1204&theme=tokyonight" />
 </p>
 
 
