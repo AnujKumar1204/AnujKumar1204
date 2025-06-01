@@ -28,8 +28,13 @@
 
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=anujkumar1204&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=anujkumar1204&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anujkumar1204&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<h3 align="left">📊 GitHub Stats:</h3>
+
+![](https://github-readme-stats.vercel.app/api?username=anujkumar1204&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
+![](https://nirzak-streak-stats.vercel.app/?user=anujkumar1204&theme=dark&hide_border=false)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anujkumar1204&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+</p>
+
 
