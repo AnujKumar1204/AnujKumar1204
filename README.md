@@ -1,7 +1,7 @@
 <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7c5ljgln4vga1s79amrs.gif" width="2000" height="400" />
 
 <h1 align="center">Hi 👋, I'm Anuj Kumar</h1>
-<h3 align="center"> A Tech- Enthusiast | AI/ML Engineer </h3>
+<h3 align="center"> A Tech- Enthusiast | AI & ML Engineer </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anujkumar1204&label=Profile%20views&color=0e75b6&style=flat" alt="anujkumar1204" /> </p>
 
 ## 🏆 GitHub Trophies
